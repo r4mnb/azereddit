@@ -8,7 +8,7 @@
 // @name         r/azerbaijan qiz qalasi
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the canvas!
+// @description  qiz qalasi cekek
 // @author       r4mnb
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
